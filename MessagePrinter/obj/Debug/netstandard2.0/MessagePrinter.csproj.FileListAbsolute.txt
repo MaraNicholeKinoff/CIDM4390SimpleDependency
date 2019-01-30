@@ -1,0 +1,9 @@
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.deps.json
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.dll
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\bin\Debug\netstandard2.0\MessagePrinter.pdb
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csprojAssemblyReference.cache
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfoInputs.cache
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.AssemblyInfo.cs
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.dll
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\MessagePrinter\obj\Debug\netstandard2.0\MessagePrinter.pdb

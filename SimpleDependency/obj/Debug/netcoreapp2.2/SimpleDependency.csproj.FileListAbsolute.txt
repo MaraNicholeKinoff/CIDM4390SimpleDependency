@@ -1,0 +1,14 @@
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.deps.json
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.json
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.dev.json
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.dll
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.pdb
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\MessagePrinter.dll
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\MessagePrinter.pdb
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csprojAssemblyReference.cache
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csproj.CoreCompileInputs.cache
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfoInputs.cache
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfo.cs
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csproj.CopyComplete
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.dll
+C:\Users\maram\Desktop\Spring2019\CIDM4390SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.pdb
