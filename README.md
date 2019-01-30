@@ -15,5 +15,8 @@
 10. dotnet build
 11. dotnet run --project ./SimpleDependency/SimpleDependency.csproj
     - This will run the SimpleDependency project while still in the main folder.
-12. Go into .vscode/launch.json.
+12. Go into .vscode/launch.json
     - Change "console": "internalConsole", to "console": "internalTerminal",
+13. Make your .gitignore file
+14. In the SimpleDependency/Program.cs file, you can now add using MessagePrinter;
+    - The class library and console app can now see each other.
